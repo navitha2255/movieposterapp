@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/movieposterapp/static/css/main.29e86f40.css",
+    "main.js": "/movieposterapp/static/js/main.358a817d.js",
+    "static/js/453.31b76398.chunk.js": "/movieposterapp/static/js/453.31b76398.chunk.js",
+    "index.html": "/movieposterapp/index.html",
+    "main.29e86f40.css.map": "/movieposterapp/static/css/main.29e86f40.css.map",
+    "main.358a817d.js.map": "/movieposterapp/static/js/main.358a817d.js.map",
+    "453.31b76398.chunk.js.map": "/movieposterapp/static/js/453.31b76398.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29e86f40.css",
+    "static/js/main.358a817d.js"
+  ]
+}
